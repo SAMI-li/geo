@@ -1377,7 +1377,7 @@
       "properties": {
         "cartodb_id": 3,
         "region": "Tanger-Tetouan-Hoceima",
-        "region_ids": [1011, 1010]
+        "region_ids": 1011
       }
     },
     {
@@ -1830,7 +1830,7 @@
       "properties": {
         "cartodb_id": 1005,
         "region": "Marrakech-Safi",
-        "region_ids": [1005, 1009]
+        "region_ids": 1005
 
       }
     },
@@ -3086,7 +3086,7 @@
       "properties": {
         "cartodb_id": 1003,
         "region": "Fes-Meknes",
-        "region_ids": [1003, 1006, 2007]
+        "region_ids":  1006
 
       }
     },
@@ -3656,7 +3656,7 @@
       "properties": {
         "cartodb_id": 1007,
         "region": "Oriental",
-        "region_ids": [1007, 2006]
+        "region_ids": 1007
 
       }
     },
@@ -4034,7 +4034,7 @@
       "properties": {
         "cartodb_id": 1002,
         "region": "Casablanca-Settat",
-        "region_ids": [1002, 2005, 2003]
+        "region_ids": 1002
 
       }
     },
